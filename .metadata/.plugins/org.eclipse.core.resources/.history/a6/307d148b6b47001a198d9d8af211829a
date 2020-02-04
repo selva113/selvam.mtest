@@ -1,0 +1,15 @@
+package org.cts.first;
+
+public class FirstOne {
+	
+	public void mew() {
+		System.out.println("this is my first  program");
+	}
+	public void nret() {
+		System.out.println("second one");
+}
+	public static void main(String[] args) {
+		mew gh = new mew();
+		gh
+	}
+}
